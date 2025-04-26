@@ -6,7 +6,7 @@ This project demonstrates how to build and visualize a simple Decision Tree Clas
 
 ## 📂 Project Structure
 
-- `decisiontreeexample1.ipynb` — Jupyter Notebook containing the code for training and evaluating the model.  
+- `Main.ipynb` — Jupyter Notebook containing the code for training and evaluating the model.  
 - `diabetes.csv` — Dataset containing diabetes-related patient records.
 
 ---
@@ -25,4 +25,4 @@ This project demonstrates how to build and visualize a simple Decision Tree Clas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/visheshchandok9808/decision-tree-diabetes.git
